@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cantexinho
 - 👀 I’m interested in software engineering, all kings of technology and music.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C# and SQL
 - 💞️ I’m looking to collaborate on something cool.
 - 📫 How to reach me cantexinho@gmail.com
 <!---
