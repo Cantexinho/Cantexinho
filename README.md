@@ -1,3 +1,3 @@
 - Hi, I’m @Cantexinho, but my friends call me PK.
-- Working as Full-stack developer and towards the ultimate goal.
+- Working as Python developer and towards the ultimate goal.
 - Wan't to collaborate? Just give me a heads up @ pk.developing@gmail.com
